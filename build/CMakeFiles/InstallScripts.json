@@ -1,7 +1,0 @@
-{
-	"InstallScripts" : 
-	[
-		"/home/great/projects/httpServer/build/cmake_install.cmake"
-	],
-	"Parallel" : false
-}

@@ -1,3 +1,0 @@
-/home/great/projects/httpServer/build/CMakeFiles/httpServer.dir
-/home/great/projects/httpServer/build/CMakeFiles/edit_cache.dir
-/home/great/projects/httpServer/build/CMakeFiles/rebuild_cache.dir

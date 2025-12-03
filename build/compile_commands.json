@@ -1,8 +1,0 @@
-[
-{
-  "directory": "/home/great/projects/httpServer/build",
-  "command": "clang++ -std=c++17 -Wall -Wextra -Wpedantic -o CMakeFiles/httpServer.dir/src/main.cpp.o -c /home/great/projects/httpServer/src/main.cpp",
-  "file": "/home/great/projects/httpServer/src/main.cpp",
-  "output": "/home/great/projects/httpServer/build/CMakeFiles/httpServer.dir/src/main.cpp.o"
-}
-]
