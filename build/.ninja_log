@@ -1,0 +1,4 @@
+# ninja log v7
+1	9	1764783083275990325	/home/great/projects/httpServer/build/CMakeFiles/cmake.verify_globs	968389fcb9b5d0a6
+9	488	1764783083283351149	CMakeFiles/httpServer.dir/src/main.cpp.o	179c84f90423443d
+489	537	1764783083763562899	httpServer	29cdbd21417bf36
